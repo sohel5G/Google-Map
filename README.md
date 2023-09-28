@@ -1,4 +1,4 @@
 
 
-Dynamic title using react helmet Async 
-[https://www.npmjs.com/package/react-helmet-async](https://www.npmjs.com/package/react-helmet-async)
+MAP Install npm install --save google-map-react
+[https://github.com/google-map-react/google-map-react](https://github.com/google-map-react/google-map-react)
