@@ -12,6 +12,7 @@ import Contact from './Contact.jsx';
 import Home from './Home.jsx';
 import Single from './Single.jsx';
 import { HelmetProvider } from 'react-helmet-async';
+import Map from './Map.jsx';
 
 
 const router = createBrowserRouter([
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
       {
         path: '/single',
         element: <Single></Single>
+      },
+      {
+        path: '/map',
+        element: <Map></Map>
       }
     ]
   }

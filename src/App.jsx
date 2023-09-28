@@ -12,6 +12,7 @@ function App() {
         <li> <Link to={'/about'}>About</Link> </li>
         <li> <Link to={'/contact'}>Contact</Link> </li>
         <li> <Link to={'/single'} state={'Single Page products title'}> single page </Link> </li>
+        <li> <Link to={'/map'}> Google Map  </Link> </li>
       </nav>
 
       <Outlet></Outlet>
